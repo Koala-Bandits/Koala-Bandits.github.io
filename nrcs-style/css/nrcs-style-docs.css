@@ -935,27 +935,27 @@ html:hover body::before {
 }
 
 .color-fsa-green-dark {
-  background-color: #95cc7d;
+  background-color: #53b56a;
 }
 
 .color-fsa-green {
-  background-color: #72BB52;
+  background-color: #199c38;
 }
 
 .color-fsa-green-light {
-  background-color: #90c976;
+  background-color: #49b162;
 }
 
 .color-fsa-green-lighter {
-  background-color: #d5ebcb;
+  background-color: #bae1c3;
 }
 
 .color-fsa-green-lightest {
-  background-color: #eaf5e5;
+  background-color: #ddf0e1;
 }
 
 .color-fsa-red-dark {
-  background-color: #B70F0A;
+  background-color: #c94b47;
 }
 
 .color-fsa-red {
@@ -963,7 +963,7 @@ html:hover body::before {
 }
 
 .color-fsa-red-light {
-  background-color: #d46f6c;
+  background-color: #c6413d;
 }
 
 .color-fsa-red-lighter {
@@ -971,7 +971,7 @@ html:hover body::before {
 }
 
 .color-fsa-red-lightest {
-  background-color: #f6e2e2;
+  background-color: #f4dbda;
 }
 
 .color-fsa-blank {

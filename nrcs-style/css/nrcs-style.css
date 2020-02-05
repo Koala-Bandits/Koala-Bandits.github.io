@@ -1135,7 +1135,7 @@ samp,
 var,
 tt {
   font-size: 90%;
-  color: #B70F0A;
+  color: #c94b47;
   font-family: "Bitstream Vera Sans Mono", "Consolas", "Menlo", "Monaco", "Courier New", "Courier", monospace;
   border-radius: 2px;
   background-color: #fafafa;
@@ -2581,7 +2581,7 @@ img {
 .fsa-textarea--error {
   border-color: #B70F0A;
   box-shadow: 0 0 0 1px #B70F0A inset;
-  background-color: #f6e2e2;
+  background-color: #f4dbda;
 }
 
 .fsa-input--error::-webkit-input-placeholder,
@@ -3319,7 +3319,7 @@ img {
 .fsa-select--error {
   border-color: #B70F0A;
   box-shadow: 0 0 0 1px #B70F0A inset;
-  background-color: #f6e2e2;
+  background-color: #f4dbda;
 }
 
 .fsa-select--error::-webkit-input-placeholder {
@@ -3757,7 +3757,7 @@ button .fsa-label {
 }
 
 .fsa-label--success {
-  background-color: #d5ebcb;
+  background-color: #bae1c3;
 }
 
 .fsa-label--large {
@@ -3881,7 +3881,7 @@ button .fsa-badge {
 }
 
 .fsa-badge--success {
-  background-color: #d5ebcb;
+  background-color: #bae1c3;
 }
 
 .fsa-badge--large {
@@ -5497,8 +5497,8 @@ a.fsa-badge:active {
 }
 
 .fsa-alert--success {
-  background-color: #eaf5e5;
-  border-left-color: #72BB52;
+  background-color: #ddf0e1;
+  border-left-color: #199c38;
 }
 
 .fsa-alert--warning {
@@ -5506,7 +5506,7 @@ a.fsa-badge:active {
 }
 
 .fsa-alert--error {
-  background-color: #f6e2e2;
+  background-color: #f4dbda;
   border-left-color: #B70F0A;
 }
 
@@ -6108,7 +6108,7 @@ a.fsa-badge:active {
 }
 
 .fsa-growl--error {
-  background-color: #f6e2e2;
+  background-color: #f4dbda;
   border-color: #B70F0A;
 }
 
@@ -6118,8 +6118,8 @@ a.fsa-badge:active {
 }
 
 .fsa-growl--success {
-  background-color: #eaf5e5;
-  border-color: #72BB52;
+  background-color: #ddf0e1;
+  border-color: #199c38;
 }
 
 .fsa-growl__hd {
@@ -7515,7 +7515,7 @@ h1 + .fsa-field {
 
 .fsa-stepped-tabs-note {
   border: 1px solid #B70F0A;
-  background-color: #f6e2e2;
+  background-color: #f4dbda;
   padding: 8px;
   padding: 0.8rem;
 }
