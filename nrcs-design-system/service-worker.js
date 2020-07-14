@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nrcs-design-system/precache-manifest.9cf0d61ccbbcda0d5ddfbe82f9a06e89.js"
+  "/nrcs-design-system/precache-manifest.a006e9c44dfd76fa1a6f4cdea33ff749.js"
 );
 
 self.addEventListener('message', (event) => {
